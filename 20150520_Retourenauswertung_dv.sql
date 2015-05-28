@@ -1,3 +1,7 @@
+/*
+Dies ist die Query zur Errechnung der Retourenquote.
+*/
+
 select * 
 
 from
